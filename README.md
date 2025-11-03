@@ -6,7 +6,7 @@ This repository contains the experimental dataset supporting the manuscript **"S
 The data includes "SR_all.sav" used for the analyses and figures in the manuscript.
 
 ## Corresponding Author
-For questions regarding this dataset, please contact [Benchi Wang] at [wangbenchi.swift@gmail.com].
+For questions regarding this dataset, please contact Benchi Wang at wangbenchi.swift@gmail.com.
 
 ## License
 This dataset is shared under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license to promote open science. If you use this data, please cite the eventual publication (details to be updated upon acceptance).
